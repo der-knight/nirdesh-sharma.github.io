@@ -2,9 +2,14 @@
 title: "High resolution landslide susceptibility mapping using ensemble machine learning and geospatial big data"
 collection: publications
 permalink: /publication/ILSM
-venue: 
+date: 2023-12-01
 ---
-<b>This paper is Published in Catena, read the paper [here](https://www.sciencedirect.com/science/article/abs/pii/S0341816223007440?via%3Dihub) </b>  
+<b>This paper is Published in Catena, read the paper [here](https://www.sciencedirect.com/science/article/abs/pii/S0341816223007440?via%3Dihub) </b>
+
+
+
+
+
 [Github codebase](https://github.com/der-knight/ILSM)   
 [Interactive GEE App](https://hydrosense.users.earthengine.app/view/ilsm)  
 

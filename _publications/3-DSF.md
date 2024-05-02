@@ -1,9 +1,9 @@
+<!-- change the date for optimal ranking of publications -->
 ---
 title: "DeepSARFlood-Operational SAR-based Flood Mapping using Ensemble Deep Learning and a Novel Ensemble Model Selection Algorithm"
 collection: publications
-permalink: /publication/DSF
-date: 2023-10-02
-venue: 
+permalink: /publication/DSF 
+date: 2022-08-01
 ---
 <b>This paper is under review</b>
 
