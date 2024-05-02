@@ -2,7 +2,6 @@
 title: "ML-CASCADE: A Machine Learning and Cloud Computing-based Tool for Rapid and Automated Mapping of Landslides using Earth Observation Data"
 collection: publications
 permalink: /publication/ML-CASCADE
-date: 
 venue: 
 ---
 [Github codebase](https://github.com/der-knight/ML-CASCADE)  
