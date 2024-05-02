@@ -1,4 +1,3 @@
-<!-- change the date for optimal ranking of publications -->
 ---
 title: "DeepSARFlood-Operational SAR-based Flood Mapping using Ensemble Deep Learning and a Novel Ensemble Model Selection Algorithm"
 collection: publications
@@ -15,3 +14,4 @@ Rapid and automated mapping of flood inundation in near real-time conditions is 
 
 [Github codebase](https://github.com/der-knight/Deep-Learning-floods)
 
+<!-- change the date for optimal ranking of publications -->
